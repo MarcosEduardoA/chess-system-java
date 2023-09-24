@@ -1,6 +1,4 @@
-package chess_system.application;
-
-import chess_system.application.board_game.Board;
+import chess_system.application.UI;
 import chess_system.chess.ChessMatch;
 
 public class Progam {

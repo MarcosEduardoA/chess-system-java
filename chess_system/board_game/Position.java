@@ -1,4 +1,4 @@
-package chess_system.application.board_game;
+package chess_system.board_game;
 
 public class Position {
     private int row;
